@@ -1,9 +1,5 @@
 Para esta tarea debemos crear un proyecto java e introducir todos los documentos .java en él.
 ![proyecto](image.png)
-Introducción:
-En esta tarea, utilizaremos el depurador (debugger) de Eclipse para encontrar y corregir los errores en el código proporcionado. Utilizaremos puntos de ruptura, así como las funciones de STEP INTO, STEP OVER y STEP RETURN para examinar el flujo del programa y solucionar los problemas identificados.
-
-
 
 Proceso de Depuración:
 Puntos de Ruptura (Breakpoints):
