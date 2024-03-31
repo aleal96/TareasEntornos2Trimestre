@@ -7,4 +7,5 @@ Suponemos los siguientes casos:
 -Director, nómina: 3000 
 -Subdirector, nómina 2000
 -Empleado nomina 1500 y 5 horas extra.
-Adjunto documento .java con las pruebas unitarias.
+Adjunto documento .java con las pruebas unitarias. 
+aleal96/TareasEntornos2Trimestre/4.10 Refactorización 1/test.java
