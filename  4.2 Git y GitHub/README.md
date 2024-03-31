@@ -19,3 +19,18 @@ Ahora guardamos el archivo html en el repositorio local y lo añadimos al stage,
 ``git push origin master``
 ![bash1](image-1.png)
 ![bash2](image-2.png)
+
+Ahora creamos dentro del repositorio el documento README.md y .gitignore, los añadimos al stage y hacemos commit.
+![docus](image-3.png)
+Etiquetamos como V1.0.
+![tag](image-4.png)
+Y ahora creamos una rama llamada "desarrollo"
+![rama](image-5.png)
+Editamos el documento index y añadimos horarios. Tras editarlo.
+Añadimos al stage la imagen del centro y la pagina.
+![stage](image-6.png)
+Hacemos commit 
+![commit](image-7.png)
+Ahora crearemos otra rama desde la rama desarrollo llamada feature1.
+![feature](image-8.png)
+![mergeDesarrollo](image-9.png)
